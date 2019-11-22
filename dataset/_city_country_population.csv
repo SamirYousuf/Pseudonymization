@@ -1,0 +1,1117 @@
+,Cities,Countries,Population
+0,Berlin,Tyskland,3426354.0
+1,Hamburg,Tyskland,1739117.0
+2,Munich,Tyskland,1260391.0
+3,Köln,Tyskland,963395.0
+4,Frankfurt am Main,Tyskland,650000.0
+5,Saint-Pierre,Saint Pierre and Miquelon,6200.0
+6,Miquelon,Saint Pierre and Miquelon,1141.0
+7,N'Djamena,Tchad,721081.0
+8,Moundou,Tchad,135167.0
+9,Sarh,Tchad,102528.0
+10,Abéché,Tchad,74188.0
+11,Koumra,Tchad,36263.0
+12,Bangui,Central African Republic,542393.0
+13,Bimbo,Central African Republic,129655.0
+14,Mbaïki,Central African Republic,67132.0
+15,Berbérati,Central African Republic,61815.0
+16,Kaga Bandoro,Central African Republic,56520.0
+17,Zürich,Schweiz,341730.0
+18,Genève,Schweiz,183981.0
+19,Basel,Schweiz,164488.0
+20,Bern,Schweiz,121631.0
+21,Lausanne,Schweiz,116751.0
+22,Santo Domingo,Dominican Republic,2201941.0
+23,Santiago de los Caballeros,Dominican Republic,1200000.0
+24,Santo Domingo Oeste,Dominican Republic,701269.0
+25,Santo Domingo Este,Dominican Republic,700000.0
+26,San Pedro de Macorís,Dominican Republic,217899.0
+27,Guayaquil,Ecuador,1952029.0
+28,Quito,Ecuador,1399814.0
+29,Cuenca,Ecuador,276964.0
+30,Santo Domingo de los Colorados,Ecuador,200421.0
+31,Machala,Ecuador,198123.0
+32,Basseterre,Saint Kitts and Nevis,12920.0
+33,Fig Tree,Saint Kitts and Nevis,2922.0
+34,Market Shop,Saint Kitts and Nevis,2568.0
+35,Saint Paul’s,Saint Kitts and Nevis,2460.0
+36,Middle Island,Saint Kitts and Nevis,2332.0
+37,Djibouti,Djibouti,623891.0
+38,'Ali Sabieh,Djibouti,40074.0
+39,Ḏânan,Djibouti,40074.0
+40,Tadjourah,Djibouti,22193.0
+41,Obock,Djibouti,17776.0
+42,The Valley,Anguilla,2035.0
+43,Blowing Point Village,Anguilla,942.0
+44,Sandy Ground Village,Anguilla,274.0
+45,North Side,Anguilla,0.0
+46,The Quarter,Anguilla,0.0
+47,Gibraltar,Gibraltar,26544.0
+48,Macau,Macao,520400.0
+49,Freetown,Sierra Leone,802639.0
+50,Bo,Sierra Leone,174354.0
+51,Kenema,Sierra Leone,143137.0
+52,Koidu,Sierra Leone,88000.0
+53,Makeni,Sierra Leone,87679.0
+54,McMurdo Station,Antarctica,1258.0
+55,East Jerusalem,Palestinian Territory,428304.0
+56,Gaza,Palestinian Territory,410000.0
+57,Khān Yūnis,Palestinian Territory,173183.0
+58,Jabālyā,Palestinian Territory,168568.0
+59,Hebron,Palestinian Territory,160470.0
+60,Grytviken,South Georgia and the South Sandwich Islands,2.0
+61,Oslo,Norge,580000.0
+62,Bergen,Norge,213585.0
+63,Trondheim,Norge,147139.0
+64,Stavanger,Norge,121610.0
+65,Drammen,Norge,90722.0
+66,Shanghai,Kina,22315474.0
+67,Beijing,Kina,11716620.0
+68,Tianjin,Kina,11090314.0
+69,Guangzhou,Kina,11071424.0
+70,Shenzhen,Kina,10358381.0
+71,Andorra la Vella,Andorra,20430.0
+72,les Escaldes,Andorra,15853.0
+73,Encamp,Andorra,11223.0
+74,Sant Julià de Lòria,Andorra,8022.0
+75,la Massana,Andorra,7211.0
+76,Singapore,Singapore,3547809.0
+77,Ouagadougou,Burkina Faso,1086505.0
+78,Bobo-Dioulasso,Burkina Faso,360106.0
+79,Koudougou,Burkina Faso,87347.0
+80,Ouahigouya,Burkina Faso,61096.0
+81,Banfora,Burkina Faso,60288.0
+82,Tallinn,Estland,394024.0
+83,Tartu,Estland,101092.0
+84,Narva,Estland,66980.0
+85,Kohtla-Järve,Estland,46060.0
+86,Pärnu,Estland,44192.0
+87,Funafuti,Tuvalu,4492.0
+88,Alapi Village,Tuvalu,1024.0
+89,Fakaifou Village,Tuvalu,1007.0
+90,Savave Village,Tuvalu,586.0
+91,Tanrake Village,Tuvalu,408.0
+92,Amsterdam,Nederländerna,741636.0
+93,Rotterdam,Nederländerna,598199.0
+94,The Hague,Nederländerna,474292.0
+95,Utrecht,Nederländerna,290529.0
+96,Eindhoven,Nederländerna,209620.0
+97,Juba,South Sudan,450000.0
+98,Winejok,South Sudan,300000.0
+99,Malakal,South Sudan,160765.0
+100,Wau,South Sudan,127384.0
+101,Pajok,South Sudan,49000.0
+102,Douala,Kamerun,1338082.0
+103,Yaoundé,Kamerun,1299369.0
+104,Garoua,Kamerun,436899.0
+105,Kousséri,Kamerun,435547.0
+106,Bamenda,Kamerun,393835.0
+107,Pyongyang,North Korea,3222000.0
+108,Hamhŭng,North Korea,559056.0
+109,Namp’o,North Korea,455000.0
+110,Sunch’ŏn,North Korea,437000.0
+111,Hŭngnam,North Korea,346082.0
+112,Manzini,Swaziland,110537.0
+113,Mbabane,Swaziland,76218.0
+114,Big Bend,Swaziland,10342.0
+115,Malkerns,Swaziland,9724.0
+116,Nhlangano,Swaziland,9016.0
+117,Adamstown,Pitcairn,46.0
+118,Saint Helier,Jersey,28000.0
+119,Le Hocq,Jersey,0.0
+120,Riga,Lettland,742572.0
+121,Daugavpils,Lettland,111564.0
+122,Liepāja,Lettland,85132.0
+123,Jelgava,Lettland,61791.0
+124,Jūrmala,Lettland,54088.0
+125,Monte-Carlo,Monaco,16012.0
+126,La Condamine,Monaco,12167.0
+127,Fontvieille,Monaco,3602.0
+128,Moneghetti,Monaco,3000.0
+129,Saint-Roman,Monaco,3000.0
+130,Dushanbe,Tajikistan,679400.0
+131,Khŭjand,Tajikistan,144865.0
+132,Kŭlob,Tajikistan,78786.0
+133,Qŭrghonteppa,Tajikistan,65000.0
+134,Istaravshan,Tajikistan,52851.0
+135,Majuro,Marshall Islands,25400.0
+136,Ebaye,Marshall Islands,15000.0
+137,Wotje,Marshall Islands,880.0
+138,Namdrik,Marshall Islands,814.0
+139,Kili,Marshall Islands,602.0
+140,Bucharest,Rumänien,1877155.0
+141,Sector 3,Rumänien,385439.0
+142,Sector 6,Rumänien,367760.0
+143,Sector 2,Rumänien,345370.0
+144,Iaşi,Rumänien,318012.0
+145,Athens,Grekland,664046.0
+146,Thessaloníki,Grekland,354290.0
+147,Pátra,Grekland,168034.0
+148,Piraeus,Grekland,163688.0
+149,Lárisa,Grekland,144651.0
+150,Kabul,Afganistan,3043532.0
+151,Kandahār,Afganistan,391190.0
+152,Mazār-e Sharīf,Afganistan,303282.0
+153,Herāt,Afganistan,272806.0
+154,Jalālābād,Afganistan,200331.0
+155,Tokyo,Japan,8336599.0
+156,Yokohama,Japan,3574443.0
+157,Osaka,Japan,2592413.0
+158,Nagoya,Japan,2191279.0
+159,Sapporo,Japan,1883027.0
+160,Sarajevo,Bosnien och Hercegovina,696731.0
+161,Banja Luka,Bosnien och Hercegovina,221106.0
+162,Zenica,Bosnien och Hercegovina,164423.0
+163,Tuzla,Bosnien och Hercegovina,142486.0
+164,Mostar,Bosnien och Hercegovina,104518.0
+165,Mexico City,Mexiko,12294193.0
+166,Iztapalapa,Mexiko,1815786.0
+167,Ecatepec de Morelos,Mexiko,1655015.0
+168,Guadalajara,Mexiko,1495182.0
+169,Puebla,Mexiko,1434062.0
+170,Dededo Village,Guam,44943.0
+171,Yigo Village,Guam,20539.0
+172,Tamuning,Guam,19685.0
+173,Tamuning-Tumon-Harmon Village,Guam,19685.0
+174,Mangilao Village,Guam,15191.0
+175,Road Town,British Virgin Islands,8449.0
+176,Dar es Salaam,Tanzania,2698652.0
+177,Mwanza,Tanzania,436801.0
+178,Zanzibar,Tanzania,403658.0
+179,Arusha,Tanzania,341136.0
+180,Mbeya,Tanzania,291649.0
+181,Libreville,Gabon,578156.0
+182,Port-Gentil,Gabon,109163.0
+183,Franceville,Gabon,42967.0
+184,Oyem,Gabon,30870.0
+185,Moanda,Gabon,30151.0
+186,Auckland,Nya Zeeland,417910.0
+187,Wellington,Nya Zeeland,381900.0
+188,Christchurch,Nya Zeeland,363926.0
+189,Manukau City,Nya Zeeland,362000.0
+190,Waitakere,Nya Zeeland,208100.0
+191,Arijejen,Nauru,2381.0
+192,Menen,Nauru,1400.0
+193,Baiti,Nauru,810.0
+194,Anabar,Nauru,378.0
+195,Uaboe,Nauru,330.0
+196,Tehran,Iran,7153309.0
+197,Mashhad,Iran,2307177.0
+198,Isfahan,Iran,1547164.0
+199,Karaj,Iran,1448075.0
+200,Tabriz,Iran,1424641.0
+201,Kampala,Uganda,1353189.0
+202,Gulu,Uganda,146858.0
+203,Lira,Uganda,119323.0
+204,Mbarara,Uganda,97500.0
+205,Jinja,Uganda,93061.0
+206,Chisinau,Moldavien,635994.0
+207,Tiraspol,Moldavien,157000.0
+208,Bălţi,Moldavien,125000.0
+209,Bender,Moldavien,110175.0
+210,Rîbniţa,Moldavien,55455.0
+211,Manama,Bahrain,147074.0
+212,Al Muharraq,Bahrain,97458.0
+213,Ar Rifā‘,Bahrain,79550.0
+214,Dār Kulayb,Bahrain,65466.0
+215,Madīnat Ḩamad,Bahrain,52718.0
+216,Saint Peter Port,Guernsey,16488.0
+217,Saint Sampson,Guernsey,0.0
+218,Castel,Guernsey,0.0
+219,St. Andrew`s,Guernsey,0.0
+220,Saint Saviour,Guernsey,0.0
+221,Nuuk,Greenland,14798.0
+222,Sisimiut,Greenland,5227.0
+223,Ilulissat,Greenland,4413.0
+224,Qaqortoq,Greenland,3224.0
+225,Aasiaat,Greenland,3005.0
+226,Maseru,Lesotho,118355.0
+227,Mafeteng,Lesotho,57059.0
+228,Leribe,Lesotho,47675.0
+229,Maputsoe,Lesotho,32117.0
+230,Mohale’s Hoek,Lesotho,28310.0
+231,Tarawa,Kiribati,40311.0
+232,Betio Village,Kiribati,12509.0
+233,Bikenibeu Village,Kiribati,6170.0
+234,Teaoraereke Village,Kiribati,3939.0
+235,Bairiki Village,Kiribati,2766.0
+236,Pristina,Kosovo,550000.0
+237,Prizren,Kosovo,171464.0
+238,Mitrovicë,Kosovo,107045.0
+239,Gjakovë,Kosovo,94158.0
+240,Suva Reka,Kosovo,72229.0
+241,Dili,Timor Leste,150000.0
+242,Maliana,Timor Leste,22000.0
+243,Suai,Timor Leste,21539.0
+244,Likisá,Timor Leste,19000.0
+245,Aileu,Timor Leste,17356.0
+246,Rome,Italien,2318895.0
+247,Milan,Italien,1236837.0
+248,Naples,Italien,959470.0
+249,Turin,Italien,870456.0
+250,Palermo,Italien,648260.0
+251,Ho Chi Minh City,Vietnam,3467331.0
+252,Hanoi,Vietnam,1431270.0
+253,Da Nang,Vietnam,752493.0
+254,Haiphong,Vietnam,602695.0
+255,Biên Hòa,Vietnam,407208.0
+256,Lilongwe,Malawi,646750.0
+257,Blantyre,Malawi,584877.0
+258,Mzuzu,Malawi,175345.0
+259,Zomba,Malawi,80932.0
+260,Kasungu,Malawi,42555.0
+261,Belgrade,Serbien,1273651.0
+262,Niš,Serbien,250000.0
+263,Novi Sad,Serbien,215400.0
+264,Zemun,Serbien,155591.0
+265,Kragujevac,Serbien,147473.0
+266,Les Abymes,Guadeloupe,63058.0
+267,Baie-Mahault,Guadeloupe,30551.0
+268,Le Gosier,Guadeloupe,28698.0
+269,Petit-Bourg,Guadeloupe,24994.0
+270,Sainte-Anne,Guadeloupe,22859.0
+271,Cotonou,Benin,780000.0
+272,Abomey-Calavi,Benin,385755.0
+273,Djougou,Benin,237040.0
+274,Porto-Novo,Benin,234168.0
+275,Parakou,Benin,163753.0
+276,Jerusalem,Israel,801000.0
+277,Tel Aviv,Israel,432892.0
+278,West Jerusalem,Israel,400000.0
+279,Haifa,Israel,267300.0
+280,Ashdod,Israel,224656.0
+281,Paris,Frankrike,2138551.0
+282,Marseille,Frankrike,794811.0
+283,Lyon,Frankrike,472317.0
+284,Toulouse,Frankrike,433055.0
+285,Nice,Frankrike,338620.0
+286,Saint-Denis,Reunion,137195.0
+287,Saint-Paul,Reunion,99307.0
+288,Saint-Pierre,Reunion,76655.0
+289,Le Tampon,Reunion,69986.0
+290,Saint-André,Reunion,48674.0
+291,Saint George,Bermuda,1896.0
+292,Mumbai,Indien,12691836.0
+293,Delhi,Indien,10927986.0
+294,Bengaluru,Indien,5104047.0
+295,Kolkata,Indien,4631392.0
+296,Chennai,Indien,4328063.0
+297,Saint John’s,Antigua och Barbuda,24226.0
+298,All Saints,Antigua och Barbuda,2526.0
+299,Piggotts,Antigua och Barbuda,1878.0
+300,Liberta,Antigua och Barbuda,1668.0
+301,Bolands,Antigua och Barbuda,1657.0
+302,Colombo,Sri Lanka,648034.0
+303,Dehiwala-Mount Lavinia,Sri Lanka,219827.0
+304,Mount Lavinia,Sri Lanka,219827.0
+305,Galkissa,Sri Lanka,215941.0
+306,Moratuwa,Sri Lanka,185031.0
+307,Kralendijk,"Bonaire, Saint Eustatius and Saba ",3081.0
+308,Dorp Antriol,"Bonaire, Saint Eustatius and Saba ",2980.0
+309,Upper Hell's Gate,"Bonaire, Saint Eustatius and Saba ",2810.0
+310,Dorp Rincón,"Bonaire, Saint Eustatius and Saba ",1496.0
+311,Dorp Tera Kora,"Bonaire, Saint Eustatius and Saba ",1186.0
+312,Amman,Jordan,1275857.0
+313,Zarqa,Jordan,792665.0
+314,Irbid,Jordan,307480.0
+315,Russeifa,Jordan,268237.0
+316,Wādī as Sīr,Jordan,181212.0
+317,Reykjavík,Island,118918.0
+318,Kópavogur,Island,31719.0
+319,Hafnarfjörður,Island,26808.0
+320,Akureyri,Island,17693.0
+321,Garðabær,Island,11421.0
+322,Bogotá,Colombia,7674366.0
+323,Cali,Colombia,2392877.0
+324,Medellín,Colombia,1999979.0
+325,Barranquilla,Colombia,1380425.0
+326,Cartagena,Colombia,952024.0
+327,Maputo,Moçambique,1191613.0
+328,Matola,Moçambique,675422.0
+329,Beira,Moçambique,530604.0
+330,Nampula,Moçambique,388526.0
+331,Chimoio,Moçambique,256936.0
+332,Skopje,Makedonien,474889.0
+333,Bitola,Makedonien,86528.0
+334,Kumanovo,Makedonien,76275.0
+335,Prilep,Makedonien,73814.0
+336,Tetovo,Makedonien,72944.0
+337,Flying Fish Cove,Christmas Island,500.0
+338,São Paulo,Brasilien,10021295.0
+339,Rio de Janeiro,Brasilien,6023699.0
+340,Salvador,Brasilien,2711840.0
+341,Fortaleza,Brasilien,2400000.0
+342,Belo Horizonte,Brasilien,2373224.0
+343,Antananarivo,Madagaskar,1391433.0
+344,Toamasina,Madagaskar,206373.0
+345,Antsirabe,Madagaskar,186253.0
+346,Fianarantsoa,Madagaskar,167227.0
+347,Mahajanga,Madagaskar,154657.0
+348,Muscat,Oman,797000.0
+349,Seeb,Oman,237816.0
+350,Şalālah,Oman,163140.0
+351,Bawshar,Oman,159487.0
+352,Sohar,Oman,108274.0
+353,São Tomé,Sao Tome and Principe,53300.0
+354,Santo António,Sao Tome and Principe,1156.0
+355,São João dos Angolares,Sao Tome and Principe,0.0
+356,Almaty,Kazakstan,2000900.0
+357,Karagandy,Kazakstan,451800.0
+358,Shymkent,Kazakstan,414032.0
+359,Taraz,Kazakstan,358153.0
+360,Astana,Kazakstan,345604.0
+361,Saint Croix,U.S. Virgin Islands,50601.0
+362,Charlotte Amalie,U.S. Virgin Islands,20000.0
+363,Cruz Bay,U.S. Virgin Islands,2743.0
+364,Bandar Seri Begawan,Brunei,64409.0
+365,Kuala Belait,Brunei,31178.0
+366,Seria,Brunei,30097.0
+367,Tutong,Brunei,19151.0
+368,Kapok,Brunei,4337.0
+369,London,United Kingdom,7556900.0
+370,Birmingham,United Kingdom,984333.0
+371,Liverpool,United Kingdom,864122.0
+372,Nottingham,United Kingdom,729977.0
+373,Sheffield,United Kingdom,685368.0
+374,Phnom Penh,Kambodja,1573544.0
+375,Takeo,Kambodja,843931.0
+376,Sihanoukville,Kambodja,156691.0
+377,Battambang,Kambodja,150444.0
+378,Siem Reap,Kambodja,139458.0
+379,Casablanca,Morocko,3144909.0
+380,Rabat,Morocko,1655753.0
+381,Fès,Morocko,964891.0
+382,Sale,Morocko,903485.0
+383,Marrakesh,Morocko,839296.0
+384,Camayenne,Guinea,1871242.0
+385,Conakry,Guinea,1767200.0
+386,Nzérékoré,Guinea,132728.0
+387,Kindia,Guinea,117062.0
+388,Kankan,Guinea,114009.0
+389,Aleppo,Syria,1602264.0
+390,Damascus,Syria,1569394.0
+391,Homs,Syria,775404.0
+392,Ḩamāh,Syria,460602.0
+393,Latakia,Syria,340181.0
+394,Serekunda,Gambia,340000.0
+395,Brikama,Gambia,77700.0
+396,Bakau,Gambia,43098.0
+397,Banjul,Gambia,34589.0
+398,Farafenni,Gambia,29867.0
+399,Brazzaville,Republic of the Congo,1284609.0
+400,Pointe-Noire,Republic of the Congo,659084.0
+401,Dolisie,Republic of the Congo,103894.0
+402,Kayes,Republic of the Congo,58737.0
+403,Owando,Republic of the Congo,23952.0
+404,Tórshavn,Faroe Islands,13200.0
+405,Klaksvík,Faroe Islands,4664.0
+406,Hoyvík,Faroe Islands,2777.0
+407,Argir,Faroe Islands,1871.0
+408,Vágur,Faroe Islands,1569.0
+409,Addis Ababa,Etiopien,2757729.0
+410,Dire Dawa,Etiopien,252279.0
+411,Mek'ele,Etiopien,215546.0
+412,Nazrēt,Etiopien,213995.0
+413,Bahir Dar,Etiopien,168899.0
+414,Mamoudzou,Mayotte,54831.0
+415,Koungou,Mayotte,18118.0
+416,Dzaoudzi,Mayotte,15339.0
+417,Dembeni,Mayotte,10141.0
+418,Pamandzi,Mayotte,9077.0
+419,Kinshasa,Democratic Republic of the Congo,7785965.0
+420,Lubumbashi,Democratic Republic of the Congo,1373770.0
+421,Mbuji-Mayi,Democratic Republic of the Congo,874761.0
+422,Kisangani,Democratic Republic of the Congo,539158.0
+423,Masina,Democratic Republic of the Congo,485167.0
+424,Birkirkara,Malta,21676.0
+425,Qormi,Malta,18230.0
+426,Mosta,Malta,17789.0
+427,Żabbar,Malta,15030.0
+428,San Pawl il-Baħar,Malta,14057.0
+429,Ashgabat,Turkmenistan,727700.0
+430,Türkmenabat,Turkmenistan,234817.0
+431,Daşoguz,Turkmenistan,166500.0
+432,Mary,Turkmenistan,114680.0
+433,Balkanabat,Turkmenistan,87822.0
+434,Jakarta,Indonesien,8540121.0
+435,Surabaya,Indonesien,2374658.0
+436,Medan,Indonesien,1750971.0
+437,Bandung,Indonesien,1699719.0
+438,Bekasi,Indonesien,1520119.0
+439,Mata-Utu,Wallis and Futuna,1200.0
+440,Leava,Wallis and Futuna,480.0
+441,Helsinki,Finland,558457.0
+442,Espoo,Finland,256760.0
+443,Tampere,Finland,202687.0
+444,Vantaa,Finland,190058.0
+445,Turku,Finland,175945.0
+446,San José,Costa Rica,335007.0
+447,Limón,Costa Rica,63081.0
+448,San Francisco,Costa Rica,55923.0
+449,Alajuela,Costa Rica,47494.0
+450,Liberia,Costa Rica,45380.0
+451,Port-aux-Français,French Southern Territories,45.0
+452,Gustavia,Saint Barthelemy,5988.0
+453,Laayoune,Western Sahara,196331.0
+454,Dakhla,Western Sahara,75000.0
+455,Laayoune Plage,Western Sahara,10450.0
+456,Nassau,Bahamas,227940.0
+457,Lucaya,Bahamas,46525.0
+458,Freeport,Bahamas,26910.0
+459,West End,Bahamas,12724.0
+460,Cooper’s Town,Bahamas,8413.0
+461,Nairobi,Kenya,2750547.0
+462,Mombasa,Kenya,799668.0
+463,Nakuru,Kenya,259903.0
+464,Eldoret,Kenya,218446.0
+465,Kisumu,Kenya,216479.0
+466,Atafu Village,Tokelau,524.0
+467,Nukunonu,Tokelau,426.0
+468,Fale old settlement,Tokelau,120.0
+469,Luxembourg,Luxemburg,76684.0
+470,Esch-sur-Alzette,Luxemburg,28228.0
+471,Dudelange,Luxemburg,18013.0
+472,Schifflange,Luxemburg,8155.0
+473,Bettembourg,Luxemburg,7437.0
+474,Sanaa,Yemen,1937451.0
+475,Al Ḩudaydah,Yemen,617871.0
+476,Ta‘izz,Yemen,615222.0
+477,Aden,Yemen,550602.0
+478,Mukalla,Yemen,258132.0
+479,Lima,Peru,7737002.0
+480,Arequipa,Peru,841130.0
+481,Callao,Peru,813264.0
+482,Trujillo,Peru,747450.0
+483,Chiclayo,Peru,577375.0
+484,Paramaribo,Surinam,223757.0
+485,Lelydorp,Surinam,18223.0
+486,Brokopondo,Surinam,14662.0
+487,Nieuw Nickerie,Surinam,13143.0
+488,Moengo,Surinam,7074.0
+489,Dublin,Irland,1024027.0
+490,Cork,Irland,190384.0
+491,Dún Laoghaire,Irland,185400.0
+492,Luimneach,Irland,90054.0
+493,Gaillimh,Irland,70686.0
+494,Baghdad,Irak,7216000.0
+495,Basrah,Irak,2600000.0
+496,Al Mawşil al Jadīdah,Irak,2065597.0
+497,Al Başrah al Qadīmah,Irak,2015483.0
+498,Mosul,Irak,1739800.0
+499,Ljubljana,Slovenien,272220.0
+500,Maribor,Slovenien,95171.0
+501,Celje,Slovenien,37520.0
+502,Kranj,Slovenien,36874.0
+503,Velenje,Slovenien,25456.0
+504,Tbilisi,Georgien,1049498.0
+505,Kutaisi,Georgien,178338.0
+506,Batumi,Georgien,121806.0
+507,Sokhumi,Georgien,81546.0
+508,Zugdidi,Georgien,73006.0
+509,Serravalle,San Marino,9258.0
+510,Borgo Maggiore,San Marino,6424.0
+511,San Marino,San Marino,4500.0
+512,Domagnano,San Marino,3161.0
+513,Fiorentino,San Marino,2510.0
+514,Asmara,Eritrea,563930.0
+515,Keren,Eritrea,74800.0
+516,Massawa,Eritrea,23100.0
+517,Assab,Eritrea,21300.0
+518,Mendefera,Eritrea,17781.0
+519,Hong Kong,Hong Kong,7012738.0
+520,Kowloon,Hong Kong,2019533.0
+521,Tsuen Wan,Hong Kong,288728.0
+522,Yuen Long Kau Hui,Hong Kong,141900.0
+523,Tung Chung,Hong Kong,45000.0
+524,New York City,USA,8175133.0
+525,Los Angeles,USA,3971883.0
+526,Chicago,USA,2720546.0
+527,Brooklyn,USA,2300664.0
+528,Houston,USA,2296224.0
+529,Bratislava,Slovakien,423737.0
+530,Košice,Slovakien,236563.0
+531,Prešov,Slovakien,94718.0
+532,Nitra,Slovakien,86329.0
+533,Žilina,Slovakien,85985.0
+534,Kyiv,Ukraina,2797553.0
+535,Kharkiv,Ukraina,1430885.0
+536,Dnipro,Ukraina,1032822.0
+537,Donetsk,Ukraina,1024700.0
+538,Odessa,Ukraina,1001558.0
+539,Baku,Azerbajdzjan,1116513.0
+540,Ganja,Azerbajdzjan,313300.0
+541,Sumqayıt,Azerbajdzjan,265150.0
+542,Lankaran,Azerbajdzjan,240300.0
+543,Mingelchaur,Azerbajdzjan,95453.0
+544,Riyadh,Saudiarabien,4205961.0
+545,Jeddah,Saudiarabien,2867446.0
+546,Mecca,Saudiarabien,1323624.0
+547,Medina,Saudiarabien,1300000.0
+548,Sulţānah,Saudiarabien,946697.0
+549,Nouméa,New Caledonia,93060.0
+550,Mont-Dore,New Caledonia,24680.0
+551,Dumbéa,New Caledonia,19346.0
+552,Païta,New Caledonia,12617.0
+553,Wé,New Caledonia,10375.0
+554,Castries,Saint Lucia,20000.0
+555,Bisee,Saint Lucia,12980.0
+556,Vieux Fort,Saint Lucia,4574.0
+557,Micoud,Saint Lucia,3406.0
+558,Soufrière,Saint Lucia,2918.0
+559,Suva,Fiji,77366.0
+560,Lautoka,Fiji,52500.0
+561,Labasa,Fiji,27949.0
+562,Ba,Fiji,14596.0
+563,Levuka,Fiji,8360.0
+564,Port Erin,Isle of Man,3530.0
+565,Castletown,Isle of Man,3100.0
+566,Laxey,Isle of Man,1768.0
+567,Ballabeg,Isle of Man,0.0
+568,Lezayre,Isle of Man,0.0
+569,Montevideo,Uruguay,1270737.0
+570,Salto,Uruguay,99823.0
+571,Paysandú,Uruguay,73249.0
+572,Las Piedras,Uruguay,69682.0
+573,Rivera,Uruguay,64631.0
+574,Roseau,Dominica,16571.0
+575,Portsmouth,Dominica,3633.0
+576,Marigot,Dominica,2669.0
+577,Berekua,Dominica,2608.0
+578,Mahaut,Dominica,2369.0
+579,Dhaka,Bangladesh,10356500.0
+580,Chittagong,Bangladesh,3920222.0
+581,Khulna,Bangladesh,1342339.0
+582,Rājshāhi,Bangladesh,700133.0
+583,Comilla,Bangladesh,389411.0
+584,Bujumbura,Burundi,331700.0
+585,Muyinga,Burundi,71076.0
+586,Ruyigi,Burundi,38458.0
+587,Gitega,Burundi,23167.0
+588,Rutana,Burundi,20893.0
+589,Kigali,Rwanda,745261.0
+590,Butare,Rwanda,89600.0
+591,Gitarama,Rwanda,87613.0
+592,Musanze,Rwanda,86685.0
+593,Gisenyi,Rwanda,83623.0
+594,Cape Town,South Africa,3433441.0
+595,Durban,South Africa,3120282.0
+596,Johannesburg,South Africa,2026469.0
+597,Soweto,South Africa,1695047.0
+598,Pretoria,South Africa,1619438.0
+599,Mogadishu,Somalia,2587183.0
+600,Hargeysa,Somalia,477876.0
+601,Berbera,Somalia,242344.0
+602,Kismayo,Somalia,234852.0
+603,Marka,Somalia,230100.0
+604,Zagreb,Kroatien,698966.0
+605,Split,Kroatien,176314.0
+606,Rijeka,Kroatien,141172.0
+607,Osijek,Kroatien,88140.0
+608,Zadar,Kroatien,71258.0
+609,Havana,Cuba,2163824.0
+610,Santiago de Cuba,Cuba,555865.0
+611,Camagüey,Cuba,347562.0
+612,Holguín,Cuba,319102.0
+613,Guantánamo,Cuba,272801.0
+614,Tripoli,Libyen,1150989.0
+615,Benghazi,Libyen,650629.0
+616,Mişrātah,Libyen,386120.0
+617,Tarhuna,Libyen,210697.0
+618,Al Khums,Libyen,201943.0
+619,Vilnius,Litauen,542366.0
+620,Kaunas,Litauen,374643.0
+621,Klaipėda,Litauen,192307.0
+622,Šiauliai,Litauen,130587.0
+623,Panevėžys,Litauen,117395.0
+624,Copenhagen,Danmark,1153615.0
+625,Århus,Danmark,237551.0
+626,Odense,Danmark,145931.0
+627,Aalborg,Danmark,122219.0
+628,Frederiksberg,Danmark,95029.0
+629,,,
+630,Windhoek,,268132.0
+631,Rundu,,58172.0
+632,Walvis Bay,,52058.0
+633,Oshakati,,33618.0
+634,Bamako,Mali,1297281.0
+635,Sikasso,Mali,144786.0
+636,Mopti,Mali,108456.0
+637,Koutiala,Mali,99353.0
+638,Ségou,Mali,92552.0
+639,Warsaw,Polen,1702139.0
+640,Łódź,Polen,768755.0
+641,Kraków,Polen,755050.0
+642,Wrocław,Polen,634893.0
+643,Poznań,Polen,570352.0
+644,Tunis,Tunisien,693210.0
+645,Sfax,Tunisien,277278.0
+646,Sousse,Tunisien,164123.0
+647,Kairouan,Tunisien,119794.0
+648,Bizerte,Tunisien,115268.0
+649,Vienna,Austria,1691468.0
+650,Graz,Austria,222326.0
+651,Linz,Austria,204846.0
+652,Favoriten,Austria,201882.0
+653,Donaustadt,Austria,187007.0
+654,Abidjan,Elfenbenskusten,3677115.0
+655,Abobo,Elfenbenskusten,900000.0
+656,Bouaké,Elfenbenskusten,567481.0
+657,Daloa,Elfenbenskusten,215652.0
+658,San-Pédro,Elfenbenskusten,196751.0
+659,Kingstown,Saint Vincent and the Grenadines,24518.0
+660,Kingstown Park,Saint Vincent and the Grenadines,17994.0
+661,Georgetown,Saint Vincent and the Grenadines,1680.0
+662,Byera Village,Saint Vincent and the Grenadines,1365.0
+663,Biabou,Saint Vincent and the Grenadines,1050.0
+664,Asunción,Paraguay,1482200.0
+665,Ciudad del Este,Paraguay,320782.0
+666,San Lorenzo,Paraguay,227876.0
+667,Capiatá,Paraguay,198553.0
+668,Lambaré,Paraguay,126377.0
+669,Bissau,Guinea-Bissau,388028.0
+670,Bafatá,Guinea-Bissau,22521.0
+671,Gabú,Guinea-Bissau,14430.0
+672,Bissorã,Guinea-Bissau,12688.0
+673,Bolama,Guinea-Bissau,10769.0
+674,Cockburn Town,Turks and Caicos Islands,3720.0
+675,Saipan,Northern Mariana Islands,48220.0
+676,San Jose Village,Northern Mariana Islands,15000.0
+677,Santiago,Chile,4837295.0
+678,Puente Alto,Chile,510417.0
+679,Antofagasta,Chile,309832.0
+680,Viña del Mar,Chile,294551.0
+681,Valparaíso,Chile,282448.0
+682,Kathmandu,Nepal,1442271.0
+683,Pokhara,Nepal,200000.0
+684,Pātan,Nepal,183310.0
+685,Biratnagar,Nepal,182324.0
+686,Birgañj,Nepal,133238.0
+687,Pago Pago,American Samoa,11500.0
+688,Tāfuna,American Samoa,11017.0
+689,Faleniu,American Samoa,3200.0
+690,Aūa,American Samoa,2124.0
+691,Mapusagafou,American Samoa,2052.0
+692,Sydney,Australien,4627345.0
+693,Melbourne,Australien,4246375.0
+694,Brisbane,Australien,2189878.0
+695,Perth,Australien,1896548.0
+696,Adelaide,Australien,1225235.0
+697,Kingston,Jamaica,937700.0
+698,New Kingston,Jamaica,583958.0
+699,Spanish Town,Jamaica,145018.0
+700,Portmore,Jamaica,102861.0
+701,Montego Bay,Jamaica,82867.0
+702,Faaa,French Polynesia,29851.0
+703,Papeete,French Polynesia,26357.0
+704,Punaauia,French Polynesia,25750.0
+705,Pirae,French Polynesia,14475.0
+706,Mahina,French Polynesia,14369.0
+707,Gaborone,Botswana,208411.0
+708,Francistown,Botswana,89979.0
+709,Molepolole,Botswana,63248.0
+710,Selebi-Phikwe,Botswana,53727.0
+711,Maun,Botswana,49945.0
+712,Fort-de-France,Martinique,89995.0
+713,Le Lamentin,Martinique,39229.0
+714,Le Robert,Martinique,23814.0
+715,Sainte-Marie,Martinique,20380.0
+716,Le François,Martinique,19682.0
+717,Bridgetown,Barbados,98511.0
+718,Speightstown,Barbados,3634.0
+719,Oistins,Barbados,2285.0
+720,Bathsheba,Barbados,1765.0
+721,Holetown,Barbados,1350.0
+722,Apia,Samoa,40407.0
+723,Asau,Samoa,6643.0
+724,Mulifanua,Samoa,4508.0
+725,Faleula,Samoa,2592.0
+726,Siusega,Samoa,2226.0
+727,Chaguanas,Trinidad and Tobago,67433.0
+728,Mon Repos,Trinidad and Tobago,56380.0
+729,San Fernando,Trinidad and Tobago,55419.0
+730,Port of Spain,Trinidad and Tobago,49031.0
+731,Rio Claro,Trinidad and Tobago,35650.0
+732,Dubai,United Arab Emirates,1137347.0
+733,Abu Dhabi,United Arab Emirates,603492.0
+734,Sharjah,United Arab Emirates,543733.0
+735,Al Ain,United Arab Emirates,408733.0
+736,Ajman,United Arab Emirates,226172.0
+737,Bishkek,Kyrgyzstan,900000.0
+738,Osh,Kyrgyzstan,200000.0
+739,Jalal-Abad,Kyrgyzstan,75700.0
+740,Karakol,Kyrgyzstan,70171.0
+741,Tokmok,Kyrgyzstan,63047.0
+742,Longyearbyen,Svalbard and Jan Mayen,2060.0
+743,Olonkinbyen,Svalbard and Jan Mayen,14.0
+744,Tashkent,Uzbekistan,1978028.0
+745,Namangan,Uzbekistan,432456.0
+746,Samarqand,Uzbekistan,319366.0
+747,Andijon,Uzbekistan,318419.0
+748,Bukhara,Uzbekistan,247644.0
+749,Jamestown,Saint Helena,637.0
+750,Georgetown,Saint Helena,538.0
+751,Edinburgh of the Seven Seas,Saint Helena,271.0
+752,Alofi,Niue,624.0
+753,Vientiane,Laos,196731.0
+754,Pakse,Laos,88332.0
+755,Thakhèk,Laos,85000.0
+756,Savannakhét,Laos,66553.0
+757,Luang Prabang,Laos,47378.0
+758,Georgetown,Guyana,235017.0
+759,New Amsterdam,Guyana,35039.0
+760,Anna Regina,Guyana,12448.0
+761,Bartica,Guyana,11157.0
+762,Skeldon,Guyana,5859.0
+763,Seoul,Sydkorea,10349312.0
+764,Busan,Sydkorea,3678555.0
+765,Incheon,Sydkorea,2628000.0
+766,Daegu,Sydkorea,2566540.0
+767,Daejeon,Sydkorea,1475221.0
+768,Accra,Ghana,1963264.0
+769,Kumasi,Ghana,1468609.0
+770,Tamale,Ghana,360579.0
+771,Takoradi,Ghana,232919.0
+772,Atsiaman,Ghana,202932.0
+773,Tirana,Albanien,374801.0
+774,Durrës,Albanien,122034.0
+775,Elbasan,Albanien,100903.0
+776,Vlorë,Albanien,89546.0
+777,Shkodër,Albanien,88245.0
+778,Yangon,Myanmar,4477638.0
+779,Mandalay,Myanmar,1208099.0
+780,Nay Pyi Taw,Myanmar,925000.0
+781,Mawlamyine,Myanmar,438861.0
+782,Kyain Seikgyi Township,Myanmar,246065.0
+783,Khartoum,Sudan,1974647.0
+784,Omdurman,Sudan,1200000.0
+785,Nyala,Sudan,565734.0
+786,Port Sudan,Sudan,489725.0
+787,Kassala,Sudan,401477.0
+788,Vatican City,Vatican,829.0
+789,Honiara,Solomon Islands,56298.0
+790,Auki,Solomon Islands,6811.0
+791,Gizo,Solomon Islands,6154.0
+792,Buala,Solomon Islands,2700.0
+793,Tulagi,Solomon Islands,1750.0
+794,Avarua,Cook Islands,13373.0
+795,Toronto,Kanada,2600000.0
+796,Montréal,Kanada,1600000.0
+797,Calgary,Kanada,1019942.0
+798,Ottawa,Kanada,812129.0
+799,Edmonton,Kanada,712391.0
+800,Praia,Cape Verde,113364.0
+801,Mindelo,Cape Verde,70611.0
+802,Santa Maria,Cape Verde,17231.0
+803,Cova Figueira,Cape Verde,15350.0
+804,Santa Cruz,Cape Verde,9488.0
+805,Podgorica,Montenegro,136473.0
+806,Nikšić,Montenegro,58212.0
+807,Herceg-Novi,Montenegro,19536.0
+808,Pljevlja,Montenegro,19489.0
+809,Budva,Montenegro,18000.0
+810,Nicosia,Cypern,200452.0
+811,Limassol,Cypern,154000.0
+812,Larnaca,Cypern,72000.0
+813,Famagusta,Cypern,42526.0
+814,Paphos,Cypern,35961.0
+815,Taipei,Taiwan,7871900.0
+816,Kaohsiung,Taiwan,1519711.0
+817,Taichung,Taiwan,1040725.0
+818,Tainan,Taiwan,771235.0
+819,Banqiao,Taiwan,543342.0
+820,Doha,Qatar,344939.0
+821,Ar Rayyān,Qatar,272465.0
+822,Umm Şalāl Muḩammad,Qatar,29391.0
+823,Al Wakrah,Qatar,26436.0
+824,Al Khawr,Qatar,18923.0
+825,Prague,Czechia,1165581.0
+826,Brno,Czechia,369559.0
+827,Ostrava,Czechia,313088.0
+828,Pilsen,Czechia,164180.0
+829,Olomouc,Czechia,101268.0
+830,Minsk,Vitryssland,1742124.0
+831,Gomel,Vitryssland,480951.0
+832,Mahilyow,Vitryssland,369200.0
+833,Vitebsk,Vitryssland,342700.0
+834,Hrodna,Vitryssland,317365.0
+835,George Town,Cayman Islands,29370.0
+836,West Bay,Cayman Islands,11269.0
+837,Bodden Town,Cayman Islands,10341.0
+838,East End,Cayman Islands,1639.0
+839,North Side,Cayman Islands,1184.0
+840,Moutsamoudou,Comoros,23594.0
+841,Fomboni,Comoros,14966.0
+842,Domoni,Comoros,14509.0
+843,Tsimbeo,Comoros,12472.0
+844,Adda-Douéni,Comoros,10858.0
+845,Al Aḩmadī,Kuwait,637411.0
+846,Ḩawallī,Kuwait,164212.0
+847,As Sālimīyah,Kuwait,147649.0
+848,Şabāḩ as Sālim,Kuwait,139163.0
+849,Al Farwānīyah,Kuwait,86525.0
+850,Willemstad,Curacao,125000.0
+851,Sint Michiel Liber,Curacao,5138.0
+852,Dorp Soto,Curacao,2233.0
+853,Lisbon,Portugal,517802.0
+854,Porto,Portugal,249633.0
+855,Amadora,Portugal,178858.0
+856,Braga,Portugal,121394.0
+857,Setúbal,Portugal,117110.0
+858,Nuku‘alofa,Tonga,22400.0
+859,Neiafu,Tonga,4320.0
+860,Haveluloto,Tonga,3417.0
+861,Vaini,Tonga,2976.0
+862,Pangai,Tonga,1738.0
+863,Weno,Micronesia,13856.0
+864,Tofol,Micronesia,9686.0
+865,Colonia,Micronesia,7371.0
+866,Kolonia,Micronesia,6074.0
+867,Kolonia Town,Micronesia,5681.0
+868,Bangkok,Thailand,5104476.0
+869,Samut Prakan,Thailand,388920.0
+870,Mueang Nonthaburi,Thailand,291555.0
+871,Udon Thani,Thailand,247231.0
+872,Chon Buri,Thailand,219164.0
+873,Beirut,Libanon,1916100.0
+874,Ra’s Bayrūt,Libanon,1251739.0
+875,Tripoli,Libanon,229398.0
+876,Sidon,Libanon,163554.0
+877,Tyre,Libanon,135204.0
+878,West Island,Cocos Islands,120.0
+879,Madrid,Spanien,3255944.0
+880,Barcelona,Spanien,1621537.0
+881,Valencia,Spanien,814208.0
+882,Sevilla,Spanien,703206.0
+883,Zaragoza,Spanien,674317.0
+884,Schaan,Liechtenstein,5748.0
+885,Vaduz,Liechtenstein,5197.0
+886,Triesen,Liechtenstein,4701.0
+887,Balzers,Liechtenstein,4447.0
+888,Eschen,Liechtenstein,4008.0
+889,Mariehamn,Aland Islands,10682.0
+890,Jomala,Aland Islands,3662.0
+891,Eckerö,Aland Islands,1028.0
+892,Föglö,Aland Islands,632.0
+893,Brändö,Aland Islands,515.0
+894,Moscow,Ryssland,10381222.0
+895,Saint Petersburg,Ryssland,5028000.0
+896,Novosibirsk,Ryssland,1419007.0
+897,Yekaterinburg,Ryssland,1349772.0
+898,Nizhniy Novgorod,Ryssland,1284164.0
+899,Thimphu,Bhutan,98676.0
+900,Punākha,Bhutan,21500.0
+901,Tsirang,Bhutan,18667.0
+902,Phuntsholing,Bhutan,17043.0
+903,Pemagatshel,Bhutan,13864.0
+904,Male,Maldiverna,103693.0
+905,Fuvahmulah,Maldiverna,11140.0
+906,Hithadhoo,Maldiverna,9927.0
+907,Kulhudhuffushi,Maldiverna,9500.0
+908,Thinadhoo,Maldiverna,6376.0
+909,Lusaka,Zambia,1267440.0
+910,Kitwe,Zambia,400914.0
+911,Ndola,Zambia,394518.0
+912,Kabwe,Zambia,188979.0
+913,Chingola,Zambia,148564.0
+914,Nouakchott,Mauritania,661400.0
+915,Nouadhibou,Mauritania,72337.0
+916,Néma,Mauritania,60000.0
+917,Kaédi,Mauritania,55374.0
+918,Kiffa,Mauritania,40281.0
+919,Quezon City,Filippinerna,2761720.0
+920,Manila,Filippinerna,1600000.0
+921,Caloocan City,Filippinerna,1500000.0
+922,Budta,Filippinerna,1273715.0
+923,Davao,Filippinerna,1212504.0
+924,Luanda,Angola,2776168.0
+925,N’dalatando,Angola,383100.0
+926,Huambo,Angola,226145.0
+927,Lobito,Angola,207932.0
+928,Benguela,Angola,151226.0
+929,Port Louis,Mauritius,155226.0
+930,Beau Bassin-Rose Hill,Mauritius,111355.0
+931,Vacoas,Mauritius,110000.0
+932,Curepipe,Mauritius,84200.0
+933,Quatre Bornes,Mauritius,80961.0
+934,Saint George's,Grenada,7500.0
+935,Gouyave,Grenada,3378.0
+936,Saint David’s,Grenada,1321.0
+937,Sauteurs,Grenada,1320.0
+938,Hillsborough,Grenada,1000.0
+939,Port-Vila,Vanuatu,35901.0
+940,Luganville,Vanuatu,13397.0
+941,Norsup,Vanuatu,2998.0
+942,Port-Olry,Vanuatu,1951.0
+943,Isangel,Vanuatu,1437.0
+944,Marigot,Saint Martin,5700.0
+945,Ulan Bator,Mongoliet,844818.0
+946,Erdenet,Mongoliet,79647.0
+947,Darhan,Mongoliet,74300.0
+948,Khovd,Mongoliet,30500.0
+949,Ölgii,Mongoliet,28400.0
+950,Managua,Nicaragua,973087.0
+951,León,Nicaragua,144538.0
+952,Masaya,Nicaragua,130113.0
+953,Chinandega,Nicaragua,126387.0
+954,Matagalpa,Nicaragua,109089.0
+955,Koror,Palau,14000.0
+956,Koror Town,Palau,12676.0
+957,Kloulklubed,Palau,702.0
+958,Ulimang,Palau,581.0
+959,Mengellang,Palau,488.0
+960,Cul de Sac,Sint Maarten,8467.0
+961,Lower Prince’s Quarter,Sint Maarten,8000.0
+962,Koolbaai,Sint Maarten,6000.0
+963,Philipsburg,Sint Maarten,1400.0
+964,Buenos Aires,Argentina,13076300.0
+965,Córdoba,Argentina,1428214.0
+966,Rosario,Argentina,1173533.0
+967,Mendoza,Argentina,876884.0
+968,San Miguel de Tucumán,Argentina,781023.0
+969,Budapest,Ungern,1741041.0
+970,Debrecen,Ungern,204124.0
+971,Miskolc,Ungern,172637.0
+972,Szeged,Ungern,164883.0
+973,Pécs,Ungern,156649.0
+974,Algiers,Algeriet,1977663.0
+975,Boumerdas,Algeriet,786499.0
+976,Oran,Algeriet,645984.0
+977,Tébessa,Algeriet,634332.0
+978,Constantine,Algeriet,450097.0
+979,Bata,Equatorial Guinea,173046.0
+980,Malabo,Equatorial Guinea,155963.0
+981,Ebebiyin,Equatorial Guinea,24831.0
+982,Aconibe,Equatorial Guinea,11192.0
+983,Añisoc,Equatorial Guinea,10191.0
+984,Caracas,Venezuela,3000000.0
+985,Maracaibo,Venezuela,2225000.0
+986,Maracay,Venezuela,1754256.0
+987,Valencia,Venezuela,1385083.0
+988,Barquisimeto,Venezuela,809490.0
+989,Karachi,Pakistan,11624219.0
+990,Lahore,Pakistan,6310888.0
+991,Faisalabad,Pakistan,2506595.0
+992,Rawalpindi,Pakistan,1743101.0
+993,Multan,Pakistan,1437230.0
+994,San Juan,Puerto Rico,418140.0
+995,Bayamón,Puerto Rico,203499.0
+996,Carolina,Puerto Rico,170404.0
+997,Ponce,Puerto Rico,152634.0
+998,Caguas,Puerto Rico,86804.0
+999,Oranjestad,Aruba,29998.0
+1000,Tanki Leendert,Aruba,21500.0
+1001,San Nicolas,Aruba,15200.0
+1002,Santa Cruz,Aruba,12900.0
+1003,Paradera,Aruba,12000.0
+1004,Brades,Montserrat,1000.0
+1005,Saint Peters,Montserrat,0.0
+1006,Niamey,Niger,774235.0
+1007,Zinder,Niger,191424.0
+1008,Maradi,Niger,163487.0
+1009,Agadez,Niger,124324.0
+1010,Alaghsas,Niger,88561.0
+1011,Cayenne,French Guiana,61550.0
+1012,Matoury,French Guiana,26350.0
+1013,Saint-Laurent-du-Maroni,French Guiana,24287.0
+1014,Kourou,French Guiana,24029.0
+1015,Rémire-Montjoly,French Guiana,19029.0
+1016,Kota Bharu,Malaysia,1459994.0
+1017,Kuala Lumpur,Malaysia,1453975.0
+1018,Klang,Malaysia,879867.0
+1019,Kampung Baru Subang,Malaysia,833571.0
+1020,Johor Bahru,Malaysia,802489.0
+1021,Sofia,Bulgarien,1152556.0
+1022,Plovdiv,Bulgarien,340494.0
+1023,Varna,Bulgarien,312770.0
+1024,Burgas,Bulgarien,195966.0
+1025,Ruse,Bulgarien,156238.0
+1026,Cairo,Egypten,7734614.0
+1027,Alexandria,Egypten,3811516.0
+1028,Giza,Egypten,2443203.0
+1029,Port Said,Egypten,538378.0
+1030,Suez,Egypten,488125.0
+1031,Santa Cruz de la Sierra,Bolivia,1364389.0
+1032,Cochabamba,Bolivia,900414.0
+1033,La Paz,Bolivia,812799.0
+1034,Sucre,Bolivia,224838.0
+1035,Oruro,Bolivia,208684.0
+1036,Monrovia,Liberia,939524.0
+1037,Gbarnga,Liberia,45835.0
+1038,Kakata,Liberia,33945.0
+1039,Bensonville,Liberia,33188.0
+1040,Voinjama,Liberia,26594.0
+1041,Belize City,Belize,61461.0
+1042,San Ignacio,Belize,16812.0
+1043,Orange Walk,Belize,15298.0
+1044,Belmopan,Belize,13381.0
+1045,Dangriga,Belize,10750.0
+1046,Anse Boileau,Seychelles,4183.0
+1047,Bel Ombre,Seychelles,4163.0
+1048,Beau Vallon,Seychelles,4142.0
+1049,Cascade,Seychelles,4088.0
+1050,Anse Royale,Seychelles,3818.0
+1051,Brussels,Belgien,1019022.0
+1052,Antwerpen,Belgien,459805.0
+1053,Gent,Belgien,231493.0
+1054,Charleroi,Belgien,200132.0
+1055,Liège,Belgien,182597.0
+1056,Port-au-Prince,Haiti,1234742.0
+1057,Carrefour,Haiti,442156.0
+1058,Delmas 73,Haiti,382920.0
+1059,Pétionville,Haiti,283052.0
+1060,Port-de-Paix,Haiti,250000.0
+1061,Yerevan,Armenia,1093485.0
+1062,Gyumri,Armenia,148381.0
+1063,Vanadzor,Armenia,101098.0
+1064,Vagharshapat,Armenia,46540.0
+1065,Hrazdan,Armenia,40795.0
+1066,Guatemala City,Guatemala,994938.0
+1067,Mixco,Guatemala,473080.0
+1068,Villa Nueva,Guatemala,406830.0
+1069,Petapa,Guatemala,141455.0
+1070,San Juan Sacatepéquez,Guatemala,136886.0
+1071,Lagos,Nigeria,9000000.0
+1072,Kano,Nigeria,3626068.0
+1073,Ibadan,Nigeria,3565108.0
+1074,Kaduna,Nigeria,1582102.0
+1075,Port Harcourt,Nigeria,1148665.0
+1076,Panamá,Panama,408168.0
+1077,San Miguelito,Panama,321501.0
+1078,Juan Díaz,Panama,100636.0
+1079,David,Panama,81957.0
+1080,Arraiján,Panama,76815.0
+1081,San Salvador,El Salvador,525990.0
+1082,Soyapango,El Salvador,329708.0
+1083,Santa Ana,El Salvador,176661.0
+1084,San Miguel,El Salvador,161880.0
+1085,Mejicanos,El Salvador,160317.0
+1086,Harare,Zimbabwe,1542813.0
+1087,Bulawayo,Zimbabwe,699385.0
+1088,Chitungwiza,Zimbabwe,340360.0
+1089,Mutare,Zimbabwe,184205.0
+1090,Gweru,Zimbabwe,146073.0
+1091,Dakar,Senegal,2476400.0
+1092,Pikine,Senegal,874062.0
+1093,Touba,Senegal,529176.0
+1094,Thiès,Senegal,320000.0
+1095,Thiès Nones,Senegal,252320.0
+1096,Lomé,Togo,749700.0
+1097,Sokodé,Togo,117811.0
+1098,Kara,Togo,104207.0
+1099,Atakpamé,Togo,80683.0
+1100,Kpalimé,Togo,75084.0
+1101,Tegucigalpa,Honduras,850848.0
+1102,San Pedro Sula,Honduras,489466.0
+1103,Choloma,Honduras,139100.0
+1104,La Ceiba,Honduras,130218.0
+1105,El Progreso,Honduras,100810.0
+1106,Port Moresby,Papua New Guinea,283733.0
+1107,Lae,Papua New Guinea,76255.0
+1108,Arawa,Papua New Guinea,40266.0
+1109,Mount Hagen,Papua New Guinea,33623.0
+1110,Popondetta,Papua New Guinea,28198.0
+1111,Istanbul,Turkiet,14804116.0
+1112,Ankara,Turkiet,3517182.0
+1113,İzmir,Turkiet,2500603.0
+1114,Bursa,Turkiet,1412701.0
+1115,Adana,Turkiet,1248988.0
